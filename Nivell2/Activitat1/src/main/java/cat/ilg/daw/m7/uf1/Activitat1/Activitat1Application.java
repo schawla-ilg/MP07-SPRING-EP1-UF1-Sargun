@@ -9,7 +9,7 @@ public class Activitat1Application {
 	public static void main(String[] args) {
 
 		SpringApplication.run(Activitat1Application.class, args);
-		SpringApplication.run(cat.ilg.daw.m7.uf1.Activitat1.ControlerNivell2.class, args);
+		SpringApplication.run(ControlerNivell2.class, args);
 	}
 
 }
